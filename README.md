@@ -1,3 +1,6 @@
+
+Note: This twitter chatbot is based on modifications to tensorlayer repository seq2seq chatbot https://github.com/tensorlayer/seq2seq-chatbot/ with License listed here https://github.com/tensorlayer/tensorlayer/blob/master/LICENSE.rst. Twitter chatbot, so offensive/rude output not uncommon. 
+
 # Seq2Seq Chatbot
 
 This is a 200 lines implementation of Twitter/Cornell-Movie Chatbot, please read the following references before you read the code:
