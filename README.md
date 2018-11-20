@@ -1,6 +1,8 @@
 
 Note: This twitter chatbot is based on modifications to tensorlayer repository seq2seq chatbot https://github.com/tensorlayer/seq2seq-chatbot/ with License listed here https://github.com/tensorlayer/tensorlayer/blob/master/LICENSE.rst. Twitter chatbot, so offensive/rude output not uncommon. 
 
+Seq2Seq file isn't well documented license-wise, so not sure if text scrapers and other non-tensorlayer code are from tensayler people or not. Of course there are plenty of of other seq2seq chatbots using the Cornell database (which is famous for that application now) plenty that use twitter and some with mostly same readme as well. I'll just clarifiy that I don't own it, I'm just playing with it. 
+
 # Seq2Seq Chatbot
 
 This is a 200 lines implementation of Twitter/Cornell-Movie Chatbot, please read the following references before you read the code:
